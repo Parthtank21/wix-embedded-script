@@ -1,1 +1,1 @@
-console.log("Hello Wix")
+console.log("Hello Wix 2")
